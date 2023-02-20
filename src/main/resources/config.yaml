@@ -1,0 +1,6 @@
+compressedFilename: "C:\\Users\\maxb\\Documents\\personal\\chess-stat-recorder\\src\\main\\resources\\lichess_db_standard_rated_2014-03.pgn.bz2"
+#compressedFilename: "/home/ec2-user/lichess_db_standard_rated_2014-01.pgn.bz2"
+findCheckmates: true
+parallel: true
+batchSize: 500
+numBatches: 64

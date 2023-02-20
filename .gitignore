@@ -1,0 +1,5 @@
+.idea/
+target/
+/src/main/resources/lichess_db_standard_rated_2014-03.pgn
+/src/main/resources/lichess_db_standard_rated_2014-03.pgn.json
+/src/main/resources/com/chessanalysis/chessparser/lichess_db_standard_rated_2013-01.pgn
